@@ -1,0 +1,17 @@
+docopt==0.6.2
+grpcio==1.76.0
+gym==0.26.2
+ipython==8.12.3
+matplotlib==3.11.1
+numpy==2.5.2
+pandas==3.0.5
+Pillow==12.3.0
+protobuf==7.35.1
+pytest==8.3.5
+PyYAML==6.0.3
+seaborn==0.13.2
+setuptools==81.0.0
+six==1.17.0
+statsmodels==0.14.6
+tensorflow==2.20.0
+torch==2.2.1
